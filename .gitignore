@@ -1,0 +1,7 @@
+# Arquivos de configuração de projeto do eclipse.
+.classpath
+.project
+.settings/
+
+# Build do maven
+/target
